@@ -1,27 +1,22 @@
 commiting for 1st release
-created feature2 branch
-working on features
+
+
 bug fixed prod release1.1
-
-features adding in feature2
-
-Phone No.
-
-Designation
-
-
-
 created feature1 branch
 
+working on features
 working features 1
-bug fixed prod release1.1
+
 
 features adding in feature1
 
 Name 
 
 Address
+created feature2 branch
+features adding in feature2
 
-
+Phone No.
+Designation
 Department
 
