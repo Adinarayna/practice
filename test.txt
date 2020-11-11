@@ -2,3 +2,9 @@ commiting for 1st release
 created feature2 branch
 working on features
 bug fixed prod release1.1
+
+features adding in feature2
+
+Phone No.
+
+Designation
