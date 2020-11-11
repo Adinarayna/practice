@@ -2,6 +2,9 @@ testing branch and merging strategy
 
 commiting for 1st release
 
+
 created feature1 branch
 
 working features 1
+bug fixed prod release1.1
+
