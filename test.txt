@@ -1,3 +1,5 @@
 testing branch and merging strategy
 
 commiting for 1st release
+
+bug fixed prod release1.0
