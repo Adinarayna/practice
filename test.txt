@@ -1,6 +1,14 @@
-testing branch and merging strategy
-
 commiting for 1st release
+created feature2 branch
+working on features
+bug fixed prod release1.1
+
+features adding in feature2
+
+Phone No.
+
+Designation
+
 
 
 created feature1 branch
@@ -13,4 +21,7 @@ features adding in feature1
 Name 
 
 Address
+
+
+Department
 
